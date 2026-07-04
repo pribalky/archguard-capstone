@@ -8,7 +8,7 @@ governance sign-off.
 Built for: Google **"5-Day AI Agents: Intensive Vibe Coding Course"** —
 **Agents for Business** track, Capstone submission.
 
-> 🔗 **Live demo:** _add your Streamlit Community Cloud URL here_
+> 🔗 **Live demo:** [archguard-5daygaicapstone-july2026.streamlit.app](https://archguard-5daygaicapstone-july2026.streamlit.app/)
 > 🎥 **Video walkthrough:** _add your video link here_
 
 ## Why this project
@@ -55,6 +55,11 @@ verdict requires explicit human sign-off.
 
 ## Architecture
 
+![ArchGuard architecture diagram](docs/architecture_diagram.png)
+
+<details>
+<summary>Text/ASCII version</summary>
+
 ```
                  ┌──────────────────────┐
    design doc -> │  Orchestrator Agent  │ -> Readiness Report (JSON + summary)
@@ -83,6 +88,8 @@ verdict requires explicit human sign-off.
                  ▼                       ▼
               main.py (CLI)          app.py (Streamlit UI)
 ```
+
+</details>
 
 ## Setup
 
