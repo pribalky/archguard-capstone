@@ -1,0 +1,8 @@
+{
+  "id": "test_01",
+  "description": "Design doc with missing auth + no rollback plan",
+  "design_doc": "# Payment Gateway Integration v1\n\nWe want to integrate a third-party payment gateway to handle customer card transactions.\n\n## Integration points\n- Customer checkout flow\n- Third-party payment API\n\n## Data\nHandles card numbers and CVV during transaction. Data passed directly to payment provider.\n\n## Notes\nAuthentication approach not yet decided. No rollback plan in place. Team not identified.",
+  "expected_readiness": "NOT_READY",
+  "expected_high_risk_areas": ["Security", "Operational"],
+  "expected_not_met_criteria": ["Authentication and authorization model defined", "Rollback / failure-mode plan documented"]
+}
