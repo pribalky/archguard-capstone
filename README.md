@@ -9,7 +9,7 @@ Built for: Google **"5-Day AI Agents: Intensive Vibe Coding Course"** —
 **Agents for Business** track, Capstone submission.
 
 > 🔗 **Live demo:** [archguard-5daygaicapstone-july2026.streamlit.app](https://archguard-5daygaicapstone-july2026.streamlit.app/)
-> 🎥 **Video walkthrough:** _add your video link here_
+> 🎥 **Video walkthrough:** [youtu.be/50LoGmtFVIk](https://youtu.be/50LoGmtFVIk)
 
 ## Why this project
 
@@ -167,6 +167,10 @@ app.py                        # Streamlit UI
 
 ## What I'd improve with more time
 
+- Add an "Ask the agent" follow-up: a free-text box after the report where
+  a reviewer can ask "why is this a blocker?" and get a plain-English
+  explanation grounded in that specific finding — turning the static
+  report into a conversation.
 - Add ADK session/memory support so a reviewer's prior clarifications persist
   across a design doc's revision history (Day 3 "Agent Skills" territory —
   not yet demonstrated in this build).
