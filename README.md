@@ -9,7 +9,7 @@ Built for: Google **"5-Day AI Agents: Intensive Vibe Coding Course"** —
 **Agents for Business** track, Capstone submission.
 
 > 🔗 **Live demo:** [archguard-5daygaicapstone-july2026.streamlit.app](https://archguard-5daygaicapstone-july2026.streamlit.app/)
-> 🎥 **Video walkthrough:** [youtu.be/50LoGmtFVIk](https://youtu.be/50LoGmtFVIk)
+> 🎥 **Video walkthrough:** [youtu.be/V7tt32MRTqU](https://youtu.be/V7tt32MRTqU)
 
 ## Why this project
 
